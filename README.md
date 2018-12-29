@@ -1,5 +1,8 @@
 # sudoku-VHDL-FPGA-Spartan
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uvk0-8obJRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://youtu.be/Uvk0-8obJRI"><img src="https://img.youtube.com/vi/Uvk0-8obJRI/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+
 <img src = "https://i.imgur.com/egVHRIB.png">
 <img src = "https://i.imgur.com/yNiqkpY.png">
 <img src = "https://i.imgur.com/JBmaV2O.png">
