@@ -1,0 +1,40 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Wed May 23 05:05:07 2018
+# Process ID: 2072
+# Log file: C:/Users/Aphiwat/Desktop/Advan/asstest/planAhead_run_2/planAhead.log
+# Journal file: C:/Users/Aphiwat/Desktop/Advan/asstest/planAhead_run_2/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/Aphiwat/Desktop/Advan/asstest/pa.fromHdl.tcl
+update_compile_order -fileset sim_1
+startgroup
+set_property package_pin P41 [get_ports {SEG_FPGA[0]}]
+endgroup
+startgroup
+set_property package_pin P40 [get_ports {SEG_FPGA[1]}]
+endgroup
+startgroup
+set_property package_pin P35 [get_ports {SEG_FPGA[2]}]
+endgroup
+startgroup
+set_property package_pin P34 [get_ports {SEG_FPGA[3]}]
+endgroup
+startgroup
+set_property package_pin P32 [get_ports {SEG_FPGA[4]}]
+endgroup
+startgroup
+set_property package_pin P29 [get_ports {SEG_FPGA[5]}]
+endgroup
+startgroup
+set_property package_pin P27 [get_ports {SEG_FPGA[6]}]
+endgroup
+set_property is_loc_fixed false [get_ports [list  {SEG_FPGA[6]}]]
+set_property is_loc_fixed true [get_ports [list  {SEG_FPGA[6]}]]
+startgroup
+set_property package_pin P30 [get_ports COM_FPGA]
+endgroup
+set_property is_loc_fixed false [get_ports [list  COM_FPGA]]
+set_property is_loc_fixed true [get_ports [list  COM_FPGA]]
+save_constraints

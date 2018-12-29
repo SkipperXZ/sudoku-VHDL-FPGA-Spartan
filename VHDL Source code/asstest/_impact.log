@@ -1,0 +1,2107 @@
+iMPACT Version: 14.7
+
+iMPACT log file Started on Tue May 22 22:29:57 2018
+
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/22/2018 10:30:20 PM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      1 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/22/2018 10:50:09 PM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/22/2018 10:59:39 PM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      1 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/22/2018 11:24:22 PM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/22/2018 11:37:56 PM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/22/2018 11:55:17 PM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      1 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 12:22:08 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 12:33:54 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      1 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 12:42:47 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 1:08:07 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 1:19:26 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 1:33:36 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 2:35:04 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 2:42:59 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 2:47:09 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 4:49:18 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 5:02:52 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      1 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 5:15:04 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+INFO:iMPACT - Current time: 5/23/2018 5:35:12 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 5:41:28 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 5:43:22 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 5:48:41 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      1 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 5:54:54 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 6:01:40 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 6:11:06 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 6:46:58 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      1 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/as1.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+done.
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream   stored in memory,
+   but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+Data width read from the bitstream file = 1.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 6:50:27 AM
+// *** BATCH CMD : Program -p 1 
+
+'1': Programming device...
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+done.
+INFO:iMPACT:579 - '1': Completed downloading bit file to device.
+INFO:iMPACT:188 - '1': Programming completed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addConfigDevice  -name "AS1" -path "C:\Users\Aphiwat\Desktop"
+// *** BATCH CMD : setSubmode -pffserial
+// *** BATCH CMD : setAttribute -configdevice -attr multibootBpiType -value ""
+// *** BATCH CMD : addDesign -version 0 -name "0"
+// *** BATCH CMD : setAttribute -configdevice -attr compressed -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr autoSize -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr fileFormat -value "mcs"
+// *** BATCH CMD : setAttribute -configdevice -attr fillValue -value "FF"
+// *** BATCH CMD : setAttribute -configdevice -attr swapBit -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr dir -value "UP"
+// *** BATCH CMD : setAttribute -configdevice -attr multiboot -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr spiSelected -value "FALSE"
+// *** BATCH CMD : addPromDevice -p 1 -size 0 -name xcf01s
+'1': Added Device xcf01s successfully.
+----------------------------------------------------------------------
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffserial
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+// *** BATCH CMD : setMode -pff
+------------------------  GUI: Wizard Data Report  ---------------------------
+      Compression : false
+      Fill Value : FF
+      Output Format : mcs
+      Swap Bits : false
+      LoadDirection : UP
+      PROM Basename : AS1
+      File Location : C:\Users\Aphiwat\Desktop/
+      Auto Selcet : false
+      Number of Revision : 1
+      Number of PROMs : 1
+      PROM Name : xcf01s,   PROM Size : 1048576 bits
+-------------------------- END of Report ----------------------------
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+Override chain at index 0.
+Overriding chain at index 0.
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+INFO:iMPACT - Elapsed time =      0 sec.
+done.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Add one device.532c1INFO:iMPACT - Current time: 5/23/2018 6:54:15 AM
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffserial
+Total configuration bit size = 2724832 bits.
+Total configuration byte size = 340604 bytes.
+// *** BATCH CMD : generate
+ERROR:Bitstream:25 - 0x5327c bytes loaded up from 0x0 would exceed promsize   0x20000.
+INFO:iMPACT - Current time: 5/23/2018 6:54:36 AM
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffserial
+Total configuration bit size = 2724832 bits.
+Total configuration byte size = 340604 bytes.
+// *** BATCH CMD : generate
+ERROR:Bitstream:25 - 0x5327c bytes loaded up from 0x0 would exceed promsize   0x20000.
+// *** BATCH CMD : assignFile -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+INFO:iMPACT - Elapsed time =      0 sec.
+done.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+// *** BATCH CMD : setAttribute -position 1 -attr devicePartName -value"xc6slx9"
+INFO:iMPACT - Current time: 5/23/2018 6:54:56 AM
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffserial
+Total configuration bit size = 2724832 bits.
+Total configuration byte size = 340604 bytes.
+// *** BATCH CMD : generate
+ERROR:Bitstream:25 - 0x5327c bytes loaded up from 0x0 would exceed promsize   0x20000.
+INFO:iMPACT - Current time: 5/23/2018 6:57:58 AM
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffserial
+Total configuration bit size = 2724832 bits.
+Total configuration byte size = 340604 bytes.
+// *** BATCH CMD : generate
+ERROR:Bitstream:25 - 0x5327c bytes loaded up from 0x0 would exceed promsize   0x20000.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : deletePromDevice -position 1
+// *** BATCH CMD : setCurrentDesign -version 0
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : deleteDesign -version 0
+// *** BATCH CMD : setCurrentDesign -version -1
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addConfigDevice  -name "AA" -path "C:\Users\Aphiwat\Desktop"
+// *** BATCH CMD : setSubmode -pffversion
+// *** BATCH CMD : setAttribute -configdevice -attr multibootBpiType -value ""
+// *** BATCH CMD : addDesign -version 0 -name "0"
+// *** BATCH CMD : setAttribute -configdevice -attr compressed -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr autoSize -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr fileFormat -value "mcs"
+// *** BATCH CMD : setAttribute -configdevice -attr fillValue -value "FF"
+// *** BATCH CMD : setAttribute -configdevice -attr swapBit -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr dir -value "UP"
+// *** BATCH CMD : setAttribute -configdevice -attr multiboot -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr spiSelected -value "FALSE"
+// *** BATCH CMD : addPromDevice -p 1 -size 0 -name xcf32p
+'1': Added Device xcf32p successfully.
+----------------------------------------------------------------------
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffversion
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+Override chain at index 0.
+Overriding chain at index 0.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffversion
+// *** BATCH CMD : setMode -pff
+------------------------  GUI: Wizard Data Report  ---------------------------
+      Compression : false
+      Fill Value : FF
+      Output Format : mcs
+      Swap Bits : false
+      LoadDirection : UP
+      PROM Basename : AA
+      File Location : C:\Users\Aphiwat\Desktop/
+      Auto Selcet : false
+      Number of Revisions : 1
+      Number of PROMs : 1
+      PROM Name : xcf32p,   PROM Size : 33554432 bits
+-------------------------- END of Report ----------------------------
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+Override chain at index 0.
+Overriding chain at index 0.
+// *** BATCH CMD : setAttribute -design -attr name -value "0000"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+INFO:iMPACT - Elapsed time =      1 sec.
+done.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Add one device.StartAddr=100000
+INFO:iMPACT - Current time: 5/23/2018 7:01:27 AM
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffversion
+Total configuration bit size = 2724832  bits.
+Total configuration byte size = 340604 bytes.
+// *** BATCH CMD : generate
+0x100000 (1048576) bytes loaded up from 0x0
+Using user-specified prom size of 4096K
+Writing file "C:\Users\Aphiwat\Desktop\AA.mcs".
+Writing file "C:\Users\Aphiwat\Desktop\AA.prm".
+Writing file "C:\Users\Aphiwat\Desktop\AA.sig".
+Writing file "C:\Users\Aphiwat\Desktop\AA.cfi".
+// *** BATCH CMD : setCurrentDesign -version 0
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addConfigDevice  -name "AA" -path "C:\Users\Aphiwat\Desktop"
+// *** BATCH CMD : setSubmode -pffserial
+// *** BATCH CMD : setAttribute -configdevice -attr multibootBpiType -value ""
+// *** BATCH CMD : addDesign -version 0 -name "0"
+// *** BATCH CMD : setAttribute -configdevice -attr compressed -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr autoSize -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr fileFormat -value "mcs"
+// *** BATCH CMD : setAttribute -configdevice -attr fillValue -value "FF"
+// *** BATCH CMD : setAttribute -configdevice -attr swapBit -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr dir -value "UP"
+// *** BATCH CMD : setAttribute -configdevice -attr multiboot -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr spiSelected -value "FALSE"
+// *** BATCH CMD : addPromDevice -p 1 -size 0 -name xcf02s
+'1': Added Device xcf02s successfully.
+----------------------------------------------------------------------
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffserial
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+// *** BATCH CMD : setMode -pff
+------------------------  GUI: Wizard Data Report  ---------------------------
+      Compression : false
+      Fill Value : FF
+      Output Format : mcs
+      Swap Bits : false
+      LoadDirection : UP
+      PROM Basename : AA
+      File Location : C:\Users\Aphiwat\Desktop/
+      Auto Selcet : false
+      Number of Revision : 1
+      Number of PROMs : 1
+      PROM Name : xcf02s,   PROM Size : 2097152 bits
+-------------------------- END of Report ----------------------------
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+Override chain at index 0.
+Overriding chain at index 0.
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+INFO:iMPACT - Elapsed time =      0 sec.
+done.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Add one device.532c1// *** BATCH CMD : deletePromDevice -position 1
+// *** BATCH CMD : setCurrentDesign -version 0
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : deleteDesign -version 0
+// *** BATCH CMD : setCurrentDesign -version -1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addConfigDevice  -name "AA" -path "C:\Users\Aphiwat\Desktop"
+// *** BATCH CMD : setSubmode -pffserial
+// *** BATCH CMD : setAttribute -configdevice -attr multibootBpiType -value ""
+// *** BATCH CMD : addDesign -version 0 -name "0"
+// *** BATCH CMD : setAttribute -configdevice -attr compressed -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr autoSize -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr fileFormat -value "mcs"
+// *** BATCH CMD : setAttribute -configdevice -attr fillValue -value "FF"
+// *** BATCH CMD : setAttribute -configdevice -attr swapBit -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr dir -value "UP"
+// *** BATCH CMD : setAttribute -configdevice -attr multiboot -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr spiSelected -value "FALSE"
+// *** BATCH CMD : addPromDevice -p 1 -size 0 -name xcf04s
+'1': Added Device xcf04s successfully.
+----------------------------------------------------------------------
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffserial
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+// *** BATCH CMD : setMode -pff
+------------------------  GUI: Wizard Data Report  ---------------------------
+      Compression : false
+      Fill Value : FF
+      Output Format : mcs
+      Swap Bits : false
+      LoadDirection : UP
+      PROM Basename : AA
+      File Location : C:\Users\Aphiwat\Desktop/
+      Auto Selcet : false
+      Number of Revision : 1
+      Number of PROMs : 1
+      PROM Name : xcf04s,   PROM Size : 4194304 bits
+-------------------------- END of Report ----------------------------
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+Override chain at index 0.
+Overriding chain at index 0.
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+INFO:iMPACT - Elapsed time =      0 sec.
+done.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Add one device.532c1INFO:iMPACT - Current time: 5/23/2018 7:03:10 AM
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffserial
+Total configuration bit size = 2724832 bits.
+Total configuration byte size = 340604 bytes.
+// *** BATCH CMD : generate
+0x5327c (340604) bytes loaded up from 0x0
+Using user-specified prom size of 512K
+Writing file "C:\Users\Aphiwat\Desktop\AA.mcs".
+Writing file "C:\Users\Aphiwat\Desktop\AA.prm".
+Writing file "C:\Users\Aphiwat\Desktop\AA.sig".
+Writing file "C:\Users\Aphiwat\Desktop\AA.cfi".
+// *** BATCH CMD : setCurrentDesign -version 0
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : deletePromDevice -position 1
+// *** BATCH CMD : setCurrentDesign -version 0
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : deleteDesign -version 0
+// *** BATCH CMD : setCurrentDesign -version -1
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/prom.svf"
+Selected part: xcf04s
+// *** BATCH CMD : addDevice -p 1 -sprom "xcf04s" -file"C:/Users/Aphiwat/Desktop/AA.mcs"
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/xcf/data/xcf04s.bsd...
+INFO:iMPACT:501 - '1': Added Device xcf04s successfully.
+----------------------------------------------------------------------
+'1': Loading file 'C:/Users/Aphiwat/Desktop/AA.mcs' ...
+done.
+// *** BATCH CMD : setAttribute -position 1 -attr packageName -value ""
+Setting Target Device to Mode:BS, Device position 0.
+INFO:iMPACT - Current time: 5/23/2018 7:07:13 AM
+// *** BATCH CMD : Program -p 1 -e -v 
+
+PROGRESS_START - Starting Operation.
+'1': Erasing device...
+'1': Erasure completed successfully.
+'1': Programming device...
+done.
+'1': Putting device in ISP mode...done.
+'1': Putting device in ISP mode...done.
+'1': Verifying device...done.
+'1': Verification completed successfully.
+'1': Calculated checksum matches expected checksum, 00324f6c8
+'1': Putting device in ISP mode...done.
+'1': Putting device in ISP mode...done.
+'1': Setting user-programmable bits...
+done.
+'1': Putting device in ISP mode...done.
+'1': Programming completed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      1 sec.
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addConfigDevice  -name "AA" -path "C:\Users\Aphiwat\Desktop"
+// *** BATCH CMD : setSubmode -pffserial
+// *** BATCH CMD : setAttribute -configdevice -attr multibootBpiType -value ""
+// *** BATCH CMD : addDesign -version 0 -name "0"
+// *** BATCH CMD : setAttribute -configdevice -attr compressed -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr autoSize -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr fileFormat -value "mcs"
+// *** BATCH CMD : setAttribute -configdevice -attr fillValue -value "FF"
+// *** BATCH CMD : setAttribute -configdevice -attr swapBit -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr dir -value "UP"
+// *** BATCH CMD : setAttribute -configdevice -attr multiboot -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr spiSelected -value "FALSE"
+// *** BATCH CMD : addPromDevice -p 1 -size 0 -name xcf04s
+'1': Added Device xcf04s successfully.
+----------------------------------------------------------------------
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffserial
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+// *** BATCH CMD : setMode -pff
+------------------------  GUI: Wizard Data Report  ---------------------------
+      Compression : false
+      Fill Value : FF
+      Output Format : mcs
+      Swap Bits : false
+      LoadDirection : UP
+      PROM Basename : AA
+      File Location : C:\Users\Aphiwat\Desktop/
+      Auto Selcet : false
+      Number of Revision : 1
+      Number of PROMs : 1
+      PROM Name : xcf04s,   PROM Size : 4194304 bits
+-------------------------- END of Report ----------------------------
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+Override chain at index 0.
+Overriding chain at index 0.
+1Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : deletePromDevice -position 1
+// *** BATCH CMD : setCurrentDesign -version 0
+// *** BATCH CMD : deleteDesign -version 0
+// *** BATCH CMD : setCurrentDesign -version -1
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addConfigDevice  -name "AA" -path "C:\Users\Aphiwat\Desktop"
+// *** BATCH CMD : setSubmode -pffspi
+// *** BATCH CMD : setAttribute -configdevice -attr multibootBpiType -value ""
+// *** BATCH CMD : addDesign -version 0 -name "0"
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+Override chain at index 0.
+Overriding chain at index 0.
+// *** BATCH CMD : setAttribute -configdevice -attr compressed -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr autoSize -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr fileFormat -value "mcs"
+// *** BATCH CMD : setAttribute -configdevice -attr fillValue -value "FF"
+// *** BATCH CMD : setAttribute -configdevice -attr swapBit -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr dir -value "UP"
+// *** BATCH CMD : setAttribute -configdevice -attr multiboot -value "FALSE"
+// *** BATCH CMD : setAttribute -configdevice -attr spiSelected -value "TRUE"
+// *** BATCH CMD : addPromDevice -p 1 -size 1024 -name 1M
+'1': Added Device 1M successfully.
+----------------------------------------------------------------------
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+Override chain at index 0.
+Overriding chain at index 0.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : addDeviceChain -index 0
+Override chain at index 0.
+Overriding chain at index 0.
+// *** BATCH CMD : setSubmode -pffspi
+// *** BATCH CMD : setMode -pff
+------------------------  GUI: Wizard Data Report  ---------------------------
+      Compression : false
+      Fill Value : FF
+      Output Format : mcs
+      Swap Bits : false
+      LoadDirection : UP
+      PROM Basename : AA
+      File Location : C:\Users\Aphiwat\Desktop/
+      Auto Select : false
+      Number of Revisions : 1
+      Number of PROMs : 1
+      PROM Name : 1M   PROM Size : 1048576 bits
+-------------------------- END of Report ----------------------------
+// *** BATCH CMD : setAttribute -design -attr name -value "0000"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit"
+'1': Loading file 'C:/Users/Aphiwat/Desktop/Advan/asstest/gg.bit' ...
+INFO:iMPACT - Elapsed time =      0 sec.
+done.
+INFO:iMPACT:501 - '1': Added Device xc6slx9 successfully.
+----------------------------------------------------------------------
+Add one device.532c1INFO:iMPACT - Current time: 5/23/2018 7:13:49 AM
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setSubmode -pffspi
+Total configuration bit size = 2724832  bits.
+Total configuration byte size = 340604 bytes.
+// *** BATCH CMD : generate
+0x5327c (340604) bytes loaded up from 0x0
+Using user-specified prom size of 1024K
+Writing file "C:\Users\Aphiwat\Desktop\AA.mcs".
+Writing file "C:\Users\Aphiwat\Desktop\AA.prm".
+Writing file "C:\Users\Aphiwat\Desktop\AA.cfi".
+// *** BATCH CMD : setCurrentDesign -version 0
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' created.
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : saveProjectFile -file"C:\Xilinx\14.7\ISE_DS\\auto_project.ipf"
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setMode -ss
+// *** BATCH CMD : setMode -sm
+// *** BATCH CMD : setMode -hw140
+// *** BATCH CMD : setMode -spi
+// *** BATCH CMD : setMode -acecf
+// *** BATCH CMD : setMode -acempm
+// *** BATCH CMD : setMode -pff
+// *** BATCH CMD : deletePromDevice -position 1
+// *** BATCH CMD : setCurrentDesign -version 0
+// *** BATCH CMD : deleteDevice -position 1
+// *** BATCH CMD : deleteDesign -version 0
+// *** BATCH CMD : setCurrentDesign -version -1
+Welcome to iMPACT
+iMPACT Version: 14.7
+Project: 'C:\Xilinx\14.7\ISE_DS\\auto_project.ipf' already exists.
+Original project has been renamed to'C:\Xilinx\14.7\ISE_DS\\auto_project_1.ipf'.
+Project: C:\Xilinx\14.7\ISE_DS\\auto_project.ipf created.
+// *** BATCH CMD : setMode -bs
+// *** BATCH CMD : setCable -port svf -file "D:/svf/prom.svf"
+// *** BATCH CMD : addDevice -p 1 -file"C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd"
+INFO:iMPACT:501 - '1': Added Device UNKNOWN successfully.
+----------------------------------------------------------------------
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+INFO:iMPACT:501 - '1': Added Device XC6SLX9 successfully.
+----------------------------------------------------------------------
+INFO:iMPACT:1777 - 
+   Reading C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9.bsd...
+----------------------------------------------------------------------
+Selected part: M25P80
+// *** BATCH CMD : attachflash -position 1 -spi "M25P80"
+Unprotect sectors: FALSE
+// *** BATCH CMD : assignfiletoattachedflash -position 1 -file"C:/Users/Aphiwat/Desktop/AA.mcs"
+INFO:iMPACT - Current time: 5/23/2018 7:16:19 AM
+// *** BATCH CMD : ReadIdcode -p 1 
+
+'1': IDCODE is '11110100000000000001000010010011'
+'1': IDCODE is 'f4001093' (in hex).
+'1': : Manufacturer's ID = Xilinx xc6slx9, Version : 15
+INFO:iMPACT - Current time: 5/23/2018 7:16:46 AM
+// *** BATCH CMD : Program -p 1 -dataWidth 1 -spionly -e -loadfpga 
+
+'1': SPI access core not detected. SPI access core will be downloaded to thedevice to enable operations.
+INFO:iMPACT - Downloading core file   C:/Xilinx/14.7/ISE_DS/ISE/spartan6/data/xc6slx9_spi.cor.
+PROGRESS_START - Starting Operation.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT:2492 - '1': Completed downloading core to device.
+'1': IDCODE is '13' (in hex).
+'1': ID Check passed.
+'1': IDCODE is '13' (in hex).
+'1': ID Check passed.
+'1': Erasing Device.
+'1': Using Sector Erase.
+'1': Programming Flash.
+'1':Programming in x1 mode.
+'1': Programmed successfully.
+INFO:iMPACT - '1': Flash was programmed successfully.
+ LCK_cycle = NoWait.
+LCK cycle: NoWait
+INFO:iMPACT - '1': Checking done pin....done.
+'1': Programmed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      0 sec.

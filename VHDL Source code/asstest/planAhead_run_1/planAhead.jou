@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Wed May 23 04:11:00 2018
+# Process ID: 9100
+# Log file: C:/Users/Aphiwat/Desktop/Advan/asstest/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/Aphiwat/Desktop/Advan/asstest/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/Aphiwat/Desktop/Advan/asstest/pa.fromHdl.tcl
+update_compile_order -fileset sim_1
+startgroup
+set_property package_pin P12 [get_ports LED_RED]
+endgroup
+startgroup
+set_property package_pin P10 [get_ports LED_GREEN]
+endgroup
+set_property is_loc_fixed false [get_ports [list  LED_GREEN]]
+set_property is_loc_fixed true [get_ports [list  LED_GREEN]]
+save_constraints

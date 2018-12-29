@@ -1,0 +1,71 @@
+
+
+NET "SEG[0]" LOC = P2;
+NET "SEG[1]" LOC = P143;
+NET "SEG[2]" LOC = P141;
+NET "SEG[3]" LOC = P139;
+NET "SEG[4]" LOC = P137;
+NET "SEG[5]" LOC = P133;
+NET "SEG[6]" LOC = P131;
+#NET "SEG_COM[0]" LOC = P44;
+#NET "SEG_COM[1]" LOC = P43;
+#NET "SEG_COM[2]" LOC = P33;
+#NET "SEG_COM[3]" LOC = P30;
+NET "CLK" LOC = P123;
+# Switch
+NET "Button_Start" LOC = P9;
+NET "Right" LOC = P14;
+NET "Left" LOC = P16;
+NET "Down" LOC = P21;
+NET "ADDv" LOC = P7;
+NET "Up" LOC = P23;
+NET "Submit" LOC = P5;
+NET "Reset" LOC = P11;
+
+NET "Button_Start" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "ADDv" CLOCK_DEDICATED_ROUTE = FALSE;
+
+NET "common[0]" LOC = P121;
+NET "common[1]" LOC = P120;
+NET "common[2]" LOC = P119;
+NET "common[3]" LOC = P118;
+NET "common[4]" LOC = P117;
+NET "common[5]" LOC = P116;
+NET "common[6]" LOC = P115;
+NET "common[7]" LOC = P114;
+NET "common[8]" LOC = P112;
+NET "common[9]" LOC = P111;
+NET "common[10]" LOC = P105;
+NET "common[11]" LOC = P104;
+NET "common[12]" LOC = P102;
+NET "common[13]" LOC = P101;
+NET "common[14]" LOC = P100;
+NET "common[15]" LOC = P99;
+
+
+NET "TIME_COM[0]" LOC = P24;
+NET "TIME_COM[1]" LOC = P22;
+NET "TIME_COM[2]" LOC = P17;
+NET "TIME_COM[3]" LOC = P15;
+NET "SEG_TIME[0]" LOC = P1;
+NET "SEG_TIME[1]" LOC = P142;
+NET "SEG_TIME[2]" LOC = P140;
+NET "SEG_TIME[3]" LOC = P138;
+NET "SEG_TIME[4]" LOC = P134;
+NET "SEG_TIME[5]" LOC = P132;
+NET "SEG_TIME[6]" LOC = P127;
+
+
+NET "LED_RED" LOC = P12;
+NET "LED_GREEN" LOC = P10;
+
+# PlanAhead Generated physical constraints 
+
+NET "SEG_FPGA[0]" LOC = P41;
+NET "SEG_FPGA[1]" LOC = P40;
+NET "SEG_FPGA[2]" LOC = P35;
+NET "SEG_FPGA[3]" LOC = P34;
+NET "SEG_FPGA[4]" LOC = P32;
+NET "SEG_FPGA[5]" LOC = P29;
+NET "SEG_FPGA[6]" LOC = P27;
+NET "COM_FPGA" LOC = P30;
